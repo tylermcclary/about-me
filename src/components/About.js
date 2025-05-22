@@ -45,7 +45,7 @@ function About() {
           <div className="skill-category">
             <h3>Technical Skills</h3>
             <ul>
-              <li>Cursor AI Code Editor</li>
+              <li>Cursor AI</li>
               <li>AI Applications for Financial Services</li>
               <li>Web Development (HTML, CSS, JavaScript)</li>
               <li>Agile Methodologies</li>

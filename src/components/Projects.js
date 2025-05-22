@@ -8,10 +8,10 @@ function Projects() {
         <h2>Projects</h2>
         <div className="education-item">
           <h3>This Website</h3>
-          <p>I built this website.</p>
+          <p>I built this website using JavaScript (React), HTML, and CSS. This website is hosted using Firebase.</p>
         </div>
         <div className="education-item">
-          <h3>Wedding Registration</h3>
+          <h3>Registration App</h3>
           <p>Coming soon...</p>
         </div>
       </section>
@@ -24,7 +24,7 @@ function Projects() {
         </div>
         <div className="education-item">
           <h3>Columbus Ice Hockey Club</h3>
-          <p>Teaching blind children and young adults how to play hockey in an accessible way.</p>
+          <p>Teaching blind children and young adults how to play hockey using accessible equipment.</p>
         </div>
       </section>
       
@@ -36,6 +36,12 @@ function Projects() {
           <li>The Wager</li>
           <li>Killers of the Flower Moon</li>
           <li>The Lost City of Z</li>
+        </div>
+        <div className="education-item">
+          <h3>Invent and Wander: The Collected Writings of Jeff Bezos</h3>
+        </div>
+        <div> className="education-item">
+          <h3>Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</h3>
         </div>
       </section>
     </main>
