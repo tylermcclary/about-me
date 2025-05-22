@@ -40,8 +40,9 @@ function Projects() {
         <div className="education-item">
           <h3>Invent and Wander: The Collected Writings of Jeff Bezos</h3>
         </div>
-        <div> className="education-item">
+        <div className="education-item">
           <h3>Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone</h3>
+          <li>Satya Nadella</li>
         </div>
       </section>
     </main>
