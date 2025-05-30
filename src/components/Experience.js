@@ -9,7 +9,7 @@ function Experience() {
           <h3>LPL Financial</h3>
           <p>Assistant Vice President, Product Management | March 2023 - Present</p>
           <ul>
-            <li>Lead the strategy and execution for all third party integrational API integrations, supporting platforms such as CRM, trading, planning, and invesetment tools.</li>
+            <li>Lead the strategy and execution for all third party API integrations, supporting platforms such as CRM, trading, planning, and investment tools.</li>
             <li>Defined and maintained a 12-24 month roadmap, prioritizing initiatives accross business lines and M&A deals.</li>
             <li>Spearheaded complex integration projects for institutional partners including Prudential, Equitable, and Atria Wealth Solutions (5,000+ Advisors).</li>
             <li>Actively engaged with financial advisors to ensure integrations addressed real-world advisor workflows and needs.</li>
