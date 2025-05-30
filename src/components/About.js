@@ -78,6 +78,12 @@ function About() {
           <p>Issued Date: 2025</p>
         </div>
         <div className="education-item">
+          <h3>LPL Certified API Champion</h3>
+          <p>First member of the Product Organization to receive this internal LPL Designation (11 total in the firm)</p>
+          <p>Given to team members who have created and reviewed multiple APIs</p>
+          <p>Team members who receive this designation are advocates for LPL's API-as-a-product strategy</p>
+        </div>
+        <div className="education-item">
           <h3>Bloomberg Market Concepts</h3>
           <p>Issued by Bloomberg</p>
           <p>Issued Date: 2020</p>
