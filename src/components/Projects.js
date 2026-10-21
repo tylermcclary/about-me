@@ -7,6 +7,10 @@ function Projects() {
       <section className="projects-section">
         <h2>Projects</h2>
         <div className="education-item">
+          <h3>AI Product Operating System</h3>
+          <p>A set of 15 Claude Code skills that automate the routine work of product management: daily standup digests, PRD-to-story breakdown, JIRA and Confluence reporting, release tracking, monthly roadmaps and planning checkpoints. Adopted by a second product team and recognized with two internal awards for AI adoption and product-tech value.</p>
+        </div>
+        <div className="education-item">
           <h3>This Website</h3>
           <p>I built this website using JavaScript (React), HTML, and CSS. This website is hosted using Firebase.</p>
         </div>

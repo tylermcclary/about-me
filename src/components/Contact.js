@@ -8,12 +8,12 @@ function Contact() {
         <div className="education-item">
           <h3>Connect with me on LinkedIn</h3>
           <a
-            href="www.linkedin.com/in/tyler-mcclary"
+            href="https://www.linkedin.com/in/tyler-mcclary"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-link"
           >
-            linkedin.com/in/tylermcclary
+            linkedin.com/in/tyler-mcclary
           </a>
         </div>
       </section>
@@ -21,9 +21,7 @@ function Contact() {
         <div className="education-item">
           <h3>Contact me via email</h3>
           <a
-            href="tyler.mcclary@gmail.com"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="mailto:tyler.mcclary@gmail.com"
             className="contact-link"
           >
             tyler.mcclary@gmail.com

@@ -7,21 +7,38 @@ function Experience() {
         <h2>Professional Experience</h2>
         <div className="education-item">
           <h3>LPL Financial</h3>
-          <p>Assistant Vice President, Product Management | March 2023 - Present</p>
+          <p>Vice President, Product Management | January 2025 - Present</p>
           <ul>
-            <li>Lead the strategy and execution for all third party API integrations, supporting platforms such as CRM, trading, planning, and investment tools.</li>
-            <li>Defined and maintained a 12-24 month roadmap, prioritizing initiatives accross business lines and M&A deals.</li>
-            <li>Spearheaded complex integration projects for institutional partners including Prudential, Equitable, and Atria Wealth Solutions (5,000+ Advisors).</li>
-            <li>Actively engaged with financial advisors to ensure integrations addressed real-world advisor workflows and needs.</li>
+            <li>Lead product for the firm’s third-party and institutional integration platform across two scrum teams, delivering 38 of 38 committed and stretch features over three planning intervals and 313 stories across 59 production releases in 2026.</li>
+            <li>Lead a product management team covering CRM and partner integrations and strategic experience API and MCP development, setting roadmap priorities with business, operations and technology leaders.</li>
+            <li>Defined OKRs for the integration portfolio, including advisor CRM integration utilization, which grew 49%.</li>
+            <li>Own data integration for a large institutional platform sunset, a $6M-$15M enterprise program; led legacy CRM data migration and coordinated data hydration into a new client system of record.</li>
+            <li>Modernized core CRM integrations: moved them to a new cloud platform, retired legacy middleware, and shifted client data to real-time APIs.</li>
+            <li>Relaunched a core CRM integration, shipping 14 features that automate contact linking across 546,970 contacts, saving advisors 22,800+ hours a year; set a goal to cut advisor support contacts 50% through automation.</li>
+            <li>Took an AI meeting-notes integration from PRD and business case through funding, saving 100,000+ advisor hours a year across 7,700 advisors.</li>
+            <li>Saved 4,500+ advisor hours a year across ~3,500 advisors by moving an institutional partner onto the firm’s standard CRM integration framework.</li>
+            <li>Cut partner onboarding time from 12 months to 2-6 months and institution integration cost from $1.2M to ~$500K by standardizing integrations on a reusable framework.</li>
+            <li>Built an AI product operating system (15 Claude skills automating standups, PRD-to-story breakdown, reporting and roadmaps), rolled out to a second product team and recognized with the firm’s Product AI Adoption and Product-Tech Value awards.</li>
+          </ul>
+        </div>
+        <div className="education-item">
+          <h3>LPL Financial</h3>
+          <p>Assistant Vice President, Product Management | January 2023 - January 2025</p>
+          <ul>
+            <li>Led institutional integration projects that onboarded 5,000+ advisors and over $100B in assets under management.</li>
+            <li>Reduced institutional onboarding costs by $600K by building a reusable API integration framework.</li>
+            <li>Owned funding and prioritization for a $3M core product budget within a $477M technology portfolio.</li>
+            <li>Led implementation of an AI agent automating account transfer processing across ~300,000 manual transfers a year, reaching a 70% straight-through processing rate and a 25% cut in manual effort.</li>
+            <li>Managed an agile scrum team of ~25 and engaged directly with advisors to shape the roadmap.</li>
           </ul>
         </div>
         <div className="education-item">
           <h3>SEI Investments</h3>
-          <p>Product Owner/ Product Manager | March 2020 - March 2023</p>
+          <p>Product Manager, Business Analyst & Fund Operations Team Leader | September 2018 - January 2023</p>
           <ul>
-            <li>Owned end-to-end roadmap for internal CRM product used to store and manage investor data for alternative investments.</li>
-            <li>Led a cross-functional team of 5 business analysts and coordinated closely with a development team of 40+ engineers.</li>
-            <li>Delivered frequent demos and strategy updates to senior leadership and investment managers.</li>
+            <li>Owned the roadmap for an internal CRM platform managing institutional investor data, leading 5 business analysts alongside a 40-person development team.</li>
+            <li>Led client implementations, conversions and data migrations from requirements through release.</li>
+            <li>Started in alternative investment fund operations, supervising a team of analysts across hedge fund and private equity clients in a regulated environment.</li>
           </ul>
         </div>
       </section>
